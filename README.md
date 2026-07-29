@@ -1,7 +1,4 @@
-# NeetCode Solutions — @hemanth-sharma
-
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
+# NeetCode Solutions -- Just some code in free time
 ---
 
 ## What is this?
